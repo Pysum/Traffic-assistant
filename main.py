@@ -30,7 +30,7 @@ else:
     print("Unable to retrieve traffic data.")
 
 # Defining the input text
-input_text = "Hi, I am ChatGPT. I am a large language model trained by OpenAI. I can answer questions and provide information on various topics."
+input_text = "Hi, Traffic assistance. provide you the status of the traffic."
 
 # Tokenizing the input text and removing stopwords
 tokens = word_tokenize(input_text)
